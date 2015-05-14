@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\bin\Debug\quiz5.exe.config
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\bin\Debug\quiz5.exe
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\bin\Debug\quiz5.pdb
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.exe
+c:\users\user\documents\visual studio 2013\Projects\quiz5\quiz5\obj\Debug\quiz5.pdb
+C:\Users\USER\Desktop\quiz6\quiz5\bin\Debug\quiz5.exe.config
+C:\Users\USER\Desktop\quiz6\quiz5\obj\Debug\quiz5.exe
+C:\Users\USER\Desktop\quiz6\quiz5\obj\Debug\quiz5.pdb
